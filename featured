@@ -2,34 +2,34 @@
     "date": "21-10-2023",
     "list": [
         {
-            "id":"001",
-            "name":"Jetpack",
-            "author":"bl_ackrain"
+            "f":"Jetpack.pop",
+            "n":"Jetpack",
+            "a":"bl_ackrain"
         },
         {
-            "id":"002",
-            "name":"Abbaye des morts",
-            "author":"locamalito"
+            "f":"Abbaye des morts.pop",
+            "n":"Abbaye des morts",
+            "a":"locamalito"
         },
         {
-            "id":"003",
-            "name":"Xploritto",
-            "author":"blackrain"
+            "f":"Xploritto.pop",
+            "n":"Xploritto",
+            "a":"blackrain"
         },
         {
-            "id":"004",
-            "name":"Super Crate Box-Pokitto",
-            "author":"bl_ackrain"
+            "f":"supercratebox.pop",
+            "n":"Super Crate Box-Pokitto",
+            "a":"bl_ackrain"
         },
         {
-            "id":"005",
-            "name":"Karateka",
-            "author":"PressPlayOnTape"
+            "f":"Karateka.pop",
+            "n":"Karateka",
+            "a":"PressPlayOnTape"
         },
         {
-            "id":"006",
-            "name":"Button City Pokitto",
-            "author":"lucentbeam"
+            "f":"button-city-pokitto-v1.2.1.pop",
+            "n":"Button City Pokitto",
+            "a":"lucentbeam"
         }
     ]
  }

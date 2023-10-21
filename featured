@@ -7,9 +7,9 @@
             "a":"bl_ackrain"
         },
         {
-            "f":"Abbayedesmorts.pop",
-            "n":"Abbaye des morts",
-            "a":"locamalito"
+            "id":"002",
+            "name":"Abbaye des morts",
+            "author":"locamalito"
         },
         {
             "f":"Xploritto.pop",

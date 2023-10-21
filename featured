@@ -1,5 +1,5 @@
 {
-    "date": "20-10-2023",
+    "date": "21-10-2023",
     "list": [
         {
             "id":"001",
@@ -7,12 +7,29 @@
             "author":"bl_ackrain"
         },
         {
-            "id":"002","name":"Abbaye des morts","author":"locamalito"
+            "id":"002",
+            "name":"Abbaye des morts",
+            "author":"locamalito"
         },
         {
             "id":"003",
             "name":"Xploritto",
             "author":"blackrain"
+        },
+        {
+            "id":"004",
+            "name":"Super Crate Box-Pokitto",
+            "author":"bl_ackrain"
+        },
+        {
+            "id":"005",
+            "name":"Karateka",
+            "author":"PressPlayOnTape"
+        },
+        {
+            "id":"006",
+            "name":"Button City Pokitto",
+            "author":"lucentbeam"
         }
     ]
  }
